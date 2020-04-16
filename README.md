@@ -1,5 +1,5 @@
 
-The flappy bird game, with neat algorithm, which teaches itself how to play<br>
+<h5>The flappy bird game, with neat algorithm, which teaches itself how to play</h5><br>
 Built according to Tech With Tim  <a href="https://www.youtube.com/watch?v=OGHA-elMrxI">tutorial</a>, with a couple of changes<br>
-Instructions<br>
+<h5>Instructions</h5><br>
 install libriaries with pip from required-libs.txt then <code>python flappybird.py</code>
